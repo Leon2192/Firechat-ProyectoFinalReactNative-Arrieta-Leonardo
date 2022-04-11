@@ -9,3 +9,6 @@ y de esa manera poder acceder a la plataforma. Posee una barra de navegación qu
 La plataforma está compuesta por las cards, permite cliquear en SI o No sobre los perfiles de cada user, arroja una respuesta en cada caso, y llega hasta una simulación 
 de conversación con el perfil que se está mirando.
 
+PUBLISH
+###### https://expo.dev/@leonardoarrieta/firechat?serviceType=classic&distribution=expo-go
+
